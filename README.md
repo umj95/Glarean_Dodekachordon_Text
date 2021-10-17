@@ -1,3 +1,5 @@
+![](https://github.com/umj95/Glarean_Dodekachordon_Text/blob/main/Glarean_banner.png)
+
 # Heinrich Glarean's _Dodekachordon_
 This repository contains chapters out of [Heinrich Glarean](https://en.wikipedia.org/wiki/Heinrich_Glarean)'s _Dodekachordon_ (1547). The Latin text is based on the [transcription](https://chmtl.indiana.edu/tml/16th/GLADOD1_TEXT.html) by the Thesaurus Musicarum Latinarum (prepared by Sean Ferguson, Charles Atkinson, Bradley Jon Tucker, and Thomas J. Mathiesen and hosted by the University of Indiana), as well as the [Freiburg speciment](http://dl.ub.uni-freiburg.de/diglit/glareanus1547), which includes a number of handwritten marginalia. The available chapters have been marked up according to the [TEI](https://tei-c.org/) XML specification. 
 
