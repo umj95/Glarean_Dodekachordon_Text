@@ -1,3 +1,5 @@
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 ![](https://github.com/umj95/Glarean_Dodekachordon_Text/blob/main/Glarean_banner.png)
 
 # Heinrich Glarean's _Dodekachordon_
