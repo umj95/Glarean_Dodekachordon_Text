@@ -13,4 +13,4 @@ At the moment the project of which this repository forms a part is maintained on
 
 See the [wiki](https://github.com/umj95/Glarean_Dodekachordon_Text/wiki) for information on the markup used in editing the text.
 
-(Banner image: Heinrich Glarean, _Dodekachordon_, 1547, f. iiir. (http://dl.ub.uni-freiburg.de/diglit/glareanus1547/0007)
+(Banner image: Heinrich Glarean, _Dodekachordon_, 1547, f. iiir. (http://dl.ub.uni-freiburg.de/diglit/glareanus1547/0007))
