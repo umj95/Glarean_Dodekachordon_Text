@@ -4,7 +4,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Von der Augmentation, Diminution und Sedimitas</title>
+				<title>Von der Veränderung</title>
 				<author>Heinrich Glarean</author>
 				<editor>Janosch Umbreit</editor>
 				<respStmt>
@@ -20,7 +20,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
-			<p>Diese Datei enthält das 8. Kapitel ausdem dritten Band von Heinrich Glareans Dodekachordon in deutscher Übersetzung von Janosch Umbreit. Dies ist, zusammen mit dem lateinischen Original, teil eines digitalen Editionsprojektes ausgewählter Passagen aus dem Dodekachordon.</p>
+			<p>Diese Datei enthält das 10. Kapitel ausdem dritten Band von Heinrich Glareans Dodekachordon in deutscher Übersetzung von Janosch Umbreit. Dies ist, zusammen mit dem lateinischen Original, teil eines digitalen Editionsprojektes ausgewählter Passagen aus dem Dodekachordon.</p>
 		</encodingDesc>
 		<profileDesc>
 			<creation>
@@ -38,9 +38,3 @@
 	<text>
 		<body>
 			<div1 type="chapter" n="1">
-            <p xml:id="p1">Übersetzung</p>
-            <p xml:id="p2">Übersetzung</p>
-            </div1>
-        </body>
-    </text>
-</TEI>
