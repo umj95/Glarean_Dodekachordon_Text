@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>De alteratione</title>
+				<author>Glareanus, Henricus Loriti</author>
+                <editor role="editor">Sean Ferguson</editor>
+                <editor role="editor">Charles Atkinson</editor>
+                <editor role="editor">Bradley Jon Tucker</editor>
+                <editor role="editor">Thomas J. Mathiesen</editor>
+				<editor role="editor">Janosch Umbreit</editor>
+				<respStmt>
+						<resp xml:lang="de">basierend auf dem digitalen Text aus dem Thesaurus Musicarum Latinarum, codiert von</resp>
+						<name>Janosch Umbreit</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Janosch Umbreit</publisher>
+			</publicationStmt>
+			<sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Glareanus, Henricus Loriti (1488-1563)</author>
+                        <title>Dodecachordon</title>
+                        <edition>Ed. stereotypa</edition>
+                        <imprint>
+                            <pubPlace>Basileae</pubPlace>
+                            <publisher>Per Henrichvm Petri</publisher>
+                            <date>1547</date>
+                        </imprint>
+                        <extent>470 S.</extent>
+                    </monogr>
+                </biblStruct>
+                <bibl xml:lang="de">Freiburger Exemplar von Glareans Dodecachordon, mit handschriftlichen Annotationen, aus dem Besitz von <name type="person" ref="http://d-nb.info/gnd/1047654199">Johannes Algoer</name></bibl>
+            </sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p xml:lang="de">Diese Datei enthält das 10. Kapitel des 3. Bands aus Heinrich Glareans Dodekachordon im lateinischen Original nach einer Übertragung des Thesaurus Musicarum Latinarum. Dies ist, zusammen mit einer deutschen Übersetzung, teil eines digitalen Editionsprojektes ausgewählter Passagen aus dem Dodekachordon.</p>
+		</encodingDesc>
+		<profileDesc>
+			<creation>
+				<date when="2021-12-10">10.12.2021</date>
+				<name type="place">Regensburg, Deutschland</name>
+			</creation>
+			<langUsage>
+				<language ident="la">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2021-12-10">Initialversion</change>
+		</revisionDesc>
+	</teiHeader>
+    <text>
+        <body>
+            <div1 type="chapter" n="1">
+            <head n="1">De alteratione, Caput X.</head>
+            <p xml:id="p1">Alterationem hic uocamus notulae duplicationem in ualore. Ad eam instituendam coacti sunt Musici hac potissimum de causa. quod similis ante similem non potest imperfici: quapropter necesse fuit, ut aut aliam notulae formam inuenirent, aut inuentam duplam facerent, ut ternaria ratio modo tempore ac prolatione constaret. Neque enim usquam est alteratio, quam in perfectis. Quare quoties in <term>modo perfecto</term> duae <term>breues</term>, aut in <term>tempore perfecto</term> duae <term>semibreues</term>, aut in <term>perfecta prolatione</term> duae <term>minimae</term> ultra ternarium numerum superfluunt, nec ulla reductione imperfectionis impediuntur, secunda perpetuo duplatur, non prima. Id autem <term>punctum diuisionis</term> saepius indicat. Porro neque pausae alterantur, neque figurae minutiores. Sed huius rei exemplum est ex eodem <name>Franchino</name>.</p>
+            <figure type="music">
+                <notatedMusic corresp="3_10_1.mei"></notatedMusic>
+            </figure>
+            <p xml:id="p2">In hoc <term>Tenore</term> perfectus est modus, perfectumque tempus, Itaque secunda breuis duplicatur ualetque sex semibreuibus, ita quarta, ita sexta, pro quibus nequaquam licebit ponere <term>longam</term>. Ea enim quod ante similem obuenisset, neutiquam imperfici potuisset, quippe quae non duabus sed tribus ualuisset breuibus. Consimili modo semibreuis secunda dupla est, quarta, sexta, octaua, decima, atque duodecima. Denique eodem pacto iudicandum de secunda minima, quae signum perfectae prolationis sequitur, ualet enim duabus minimis, ut et quarta et sexta. Sed de hac nunc satis superque dictum puto. Franchinus quaedam praeterea addit, de duabus remotis partibus iam imperfectam sequentibus, sed non alteratis, iam perfectam, alterata altera. Item quare secunda, non prior alteretur. Quae longius prosequi non est uisum operae precium. Non enim fieri potest, ut qui haec quae diximus, cognita habuerit, ea quae quotidiano usu obuenient, non optime perspecta sit habiturus.</p>
+            </div1>
+        </body>
+    </text>
+</TEI>

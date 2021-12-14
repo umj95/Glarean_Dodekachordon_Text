@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Von der Veränderung</title>
+				<author>Heinrich Glarean</author>
+				<editor>Janosch Umbreit</editor>
+				<respStmt>
+						<resp xml:lang="de">übersetzt und codiert von</resp>
+						<name>Janosch Umbreit</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Janosch Umbreit</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Von der Veränderung</p>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Diese Datei enthält das 10. Kapitel ausdem dritten Band von Heinrich Glareans Dodekachordon in deutscher Übersetzung von Janosch Umbreit. Dies ist, zusammen mit dem lateinischen Original, teil eines digitalen Editionsprojektes ausgewählter Passagen aus dem Dodekachordon.</p>
+		</encodingDesc>
+		<profileDesc>
+			<creation>
+				<date when="2021-12-11">12.11.2021</date>
+				<name type="place">Regensburg, Deutschland</name>
+			</creation>
+			<langUsage>
+				<language ident="de-DE">Deutsch</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2021-12-11">Initialversion</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="chapter" n="1">
+            <p xml:id="p1">Als Veränderung wird hier die Verdoppelung des Wertes einer Note bezeichnet. Die Musiker waren gezwungen, sie vor allem deshalb zu verwenden, weil gleiches vor Gleichem nicht unvollkommen gemacht werden kann; daher war es notwendig, entweder eine andere Form der Note zu erfinden oder eine bereits erfundene zu verdoppeln, damit das dreifache Verhältnis in modus, tempus und prolatio hergestellt werden konnte. Denn nirgends sonst als in den vollkommenen Mensurationen findet eine Veränderung statt. So wird immer dann, wenn zwei Breves im modus perfectus oder zwei Semibreves im tempus perfectum oder zwei Minimen in der prolatio perfecta das ternäre Verhältnis überschreiten und nicht durch irgendeine Rückkehr der Unvollkommenheit daran gehindert werden, die zweite verdoppelt, nicht die erste. Häufiger jedoch zeigt der punctus divisionis dies an. Außerdem werden weder Pausen noch kleinere Noten verändert. Aber hier ist ein Beispiel für eine Veränderung wieder aus demselben Franchinus.</p>
+            <p xml:id="p2">Modus und Tempus sind in diesem Tenor perfekt. Daher wird die zweite Breve verdoppelt und ist sechs Semibreven wert, ebenso die vierte und sechste Breve, und es ist auf keinen Fall zulässig, an ihrer Stelle eine Longa zu verwenden. Denn diese Note könnte nicht unvollkommen werden, weil sie vor einer ähnlichen Note stehen würde, denn sie wäre nicht zwei, sondern drei Breven wert wäre. In ähnlicher Weise werden die zweite, vierte, sechste, achte, zehnte und zwölfte Halbe verdoppelt. Schließlich ist auch das zweite Minima, das auf das Zeichen der prolatio perfecta folgt, in gleicher Weise zu betrachten, denn es ist zwei Minime wert, ebenso wie das vierte und sechste Minima. Aber ich glaube, darüber ist jetzt mehr als genug gesagt worden. Franchinus fügt noch einige Punkte hinzu, die sich auf Noten beziehen, die zwei Werte auseinander liegen, die in einem Fall auf eine unvollkommene Note folgen, aber nicht verändert werden, in einem anderen Fall auf eine vollkommene Note und die zweite wird verändert. Daher wird wiederum die zweite und nicht die erste Note verändert. Es schien nicht sinnvoll, dies weiter zu verfolgen. Denn es ist nicht möglich, dass jemand, der verstanden hat, was wir gesagt haben, nicht nicht ein ausgezeichnetes Verständnis Wahrnehmung von was ihm im täglichen Gebrauch widerfährt.</p>
+            </div1>
+        </body>
+    </text>
+</TEI>
