@@ -1,5 +1,5 @@
-[![CC BY 4.0][cc-by-shield]][cc-by]
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![](https://github.com/umj95/Glarean_Dodekachordon_Text/blob/main/Glarean_banner.png)
 
 # Heinrich Glarean's _Dodekachordon_
@@ -11,4 +11,6 @@ Currently, the folders containing the chapters are also used to store files cont
 
 At the moment the project of which this repository forms a part is maintained only by me and development is dictated by how much time I can invest into it at any given moment. Should the texts provided here be at some stage in a shape that would make them usable for actual work, I will indicate it in this README. In theory, I would also like to use this project as a testing ground for a GitHub centered editing workflow. At the moment, I cannot in good conscience encourage anyone to engage with this project, as there are no guidelines or workflows in place, but I am planning on expanding on this in the future. So if you are interested in discussing anything related to this topic, feel free to open an issue here!
 
-(Banner image: Heinrich Glarean, _Dodekachordon_, 1547, f. iiir. (http://dl.ub.uni-freiburg.de/diglit/glareanus1547/0007)
+See the [wiki](https://github.com/umj95/Glarean_Dodekachordon_Text/wiki) for information on the markup used in editing the text.
+
+(Banner image: Heinrich Glarean, _Dodekachordon_, 1547, f. iiir. (http://dl.ub.uni-freiburg.de/diglit/glareanus1547/0007))
