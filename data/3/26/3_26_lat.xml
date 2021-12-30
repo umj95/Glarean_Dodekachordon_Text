@@ -76,9 +76,6 @@
             <graphic url="music/old/3_26_1_2.png"/>
           </figure>
           <pb n="442"/>
-          <figure xml:id="3_26_2" type="music">
-            <notatedMusic corresp="3_26_2.mei"></notatedMusic>
-          </figure>
           <figure xml:id="3_26_3" type="music">
             <notatedMusic corresp="3_26_3.mei"></notatedMusic>
           </figure>
