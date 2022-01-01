@@ -1,0 +1,7 @@
+# exclude all images
+**/images
+
+# exclude all non-text music examples
+**/music/midi
+**/music/mp3
+**/music/old
