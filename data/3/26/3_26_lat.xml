@@ -81,9 +81,11 @@
           </figure> -->
           <p xml:id="p4">Idem Iodocus treis uoces tribus diuersis signis praepositis ex una uoce eliciendas exemplo docuit ubi ualor notularum in Tenore, si Thema in spicias sit duplus ad notulas in Basi. Baseos uero notulae sesquialterae ad Cantus notulas, Ita ut duplae rationi sesquiplam mixtam intelligamus. Sed primum exemplum ponamus, ut ipse ex eodem Missa adposuit. Deinde Thematis <term>resolutionem</term> in treis uoces cum propria cuiusque uocis sede subiungamus.</p>
           <note><add xml:id="add_003">Sexta notula ante signum concordantiae erit nigra</add></note>
-          <figure xml:id="3_26_4" type="music">
+          <figure xml:id="3_26_2" type="music">
             <head>Ex una uoce tres, ex eiusdem Iodoci Missa Lhome arme super uoces musicales.</head>
-            <notatedMusic corresp="3_26_4.mei"></notatedMusic>
+            <notatedMusic corresp="3_26_2.mei"></notatedMusic>
+            <graphic url="music/old/3_26_2_1.png"/>
+            <graphic url="music/old/3_26_2_2.png"/>
           </figure>
           <pb n="443"/>
           <figure xml:id="3_26_5" type="music">
