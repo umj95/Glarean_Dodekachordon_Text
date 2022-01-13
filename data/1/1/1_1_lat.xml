@@ -59,10 +59,7 @@
 				<head n="1">De Musices diuisione ac definitione, Caput I.</head>
 				<p xml:id="p1"><hi rend="red" xml:id="add_001">Musica</hi> duplex est, 
 				<hi style="underline" xml:id="add_002">
-					<subst>
-						<anchor>Theorice</anchor>
-						<add type="super" xml:id="add_003">Speculatiua</add>
-					</subst> 
+					<add type="super" xml:id="add_003">Speculativa</add>Theorice 
 					ac <add type="super" xml:id="add_004">activa</add>practice.
 				</hi>
 				<note>
