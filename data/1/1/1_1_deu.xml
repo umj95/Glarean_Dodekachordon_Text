@@ -6,18 +6,23 @@
 			<titleStmt>
 				<title>Von der Unterteilung und Definition der Musik</title>
 				<author>Glareanus, Henricus Loriti</author>
-        <editor role="editor">Sean Ferguson</editor>
-        <editor role="editor">Charles Atkinson</editor>
-        <editor role="editor">Bradley Jon Tucker</editor>
-        <editor role="editor">Thomas J. Mathiesen</editor>
+				<editor role="editor">Sean Ferguson</editor>
+				<editor role="editor">Charles Atkinson</editor>
+				<editor role="editor">Bradley Jon Tucker</editor>
+				<editor role="editor">Thomas J. Mathiesen</editor>
 				<editor role="editor">Janosch Umbreit</editor>
 				<respStmt>
-						<resp>basierend auf dem digitalen Text aus dem Thesaurus Musicarum Latinarum, codiert und übersetzt von</resp>
-						<name>Janosch Umbreit</name>
+					<resp>basierend auf dem digitalen Text aus dem Thesaurus Musicarum Latinarum, codiert und übersetzt von</resp>
+					<name>Janosch Umbreit</name>
 				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Janosch Umbreit</publisher>
+				<availability>
+					<licence target="http://creativecommons.org/licenses/by/4.0/">
+						<p xml:lang="de">Dieses Dokument steht unter einer Creative Commons CC BY 4.0 International Lizenz</p>
+					</licence>
+				</availability>
 			</publicationStmt>
 			<sourceDesc>
         <biblStruct>

@@ -17,6 +17,11 @@
 				</respStmt>
 			</titleStmt>
 			<publicationStmt>
+				<availability>
+					<licence target="http://creativecommons.org/licenses/by/4.0/">
+						<p xml:lang="de">Dieses Dokument steht unter einer Creative Commons CC BY 4.0 International Lizenz</p>
+					</licence>
+				</availability>
 				<publisher>Janosch Umbreit</publisher>
 			</publicationStmt>
 			<sourceDesc>
